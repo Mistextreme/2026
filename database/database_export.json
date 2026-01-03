@@ -1,0 +1,24 @@
+{
+  "pictures": [
+    {
+      "name": "file_00000000ad58720a9b44567b4263efaf",
+      "url": "https://raw.githubusercontent.com/Mistextreme/2026/main/file_00000000ad58720a9b44567b4263efaf.png?token=AO2YHHGRI7LHMVLVZU6SBMLJLFDGDAA"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Code_intro",
+      "url": "https://raw.githubusercontent.com/Mistextreme/2026/main/Code_intro.mp4?token=AO2YHHH4ITX7LPJNDIQ33KDJLFDGDAA"
+    },
+    {
+      "name": "mist_intro",
+      "url": "https://raw.githubusercontent.com/Mistextreme/2026/main/mist_intro.mp4?token=AO2YHHGD7HE5ZMQJ4OTV4LTJLFDGDAA"
+    }
+  ],
+  "gifs": [
+    {
+      "name": "mist-intro",
+      "url": "https://raw.githubusercontent.com/Mistextreme/2026/main/mist-intro.gif?token=AO2YHHGHM3YOAXJJNTMWVN3JLFDGDAA"
+    }
+  ]
+}
