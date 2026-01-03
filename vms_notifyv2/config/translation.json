@@ -1,0 +1,506 @@
+{
+    "EN": {
+        "customization": {
+            "title": "Customization Menu",
+            "description": "",
+            "types": {
+                "notifications": "Notification",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Position",
+                "position_description": "Choose whether the notification will slide in from the left or right side of the screen.",
+                "positions": {
+                    "left": "Left",
+                    "right": "Right"
+                },
+                "margin_label": "Margin",
+                "margin_description": "Adjust the height of the notification display on the screen.",
+                "sounds_label": "Sound",
+                "sounds_description": "Choose the sound that will play when a notification is displayed to better capture attention.",
+                "sounds_volume_label": "Sound Volume",
+                "sounds_volume_description": "Adjust the volume of notification sounds to make them audible but not disruptive.",
+                "styles_label": "Style",
+                "styles_description": "Select one of the available style presets to customize the appearance of notifications according to your preferences.",
+                "size_label": "Size",
+                "size_description": "Adjust the size of notifications to better fit the display and ensure readability in all situations.",
+                "preview_btn": "Preview",
+                "save_btn": "Save",
+                "reset_btn": "Reset"
+            },
+            "textui_settings": {
+                "position_label": "Position",
+                "position_description": "Choose whether the text ui will slide in side of the screen.",
+                "positions": {
+                    "left": "Left",
+                    "right": "Right",
+                    "top": "Top",
+                    "bottom": "Bottom"
+                },
+                "margin_horizontal_label": "Margin Horizontal",
+                "margin_horizontal_description": "Adjust the horizontal margin of the text ui display on the screen.",
+                "margin_vertical_label": "Margin Vertical",
+                "margin_vertical_description": "Adjust the vertical margin of the textui display on the screen.",
+                "sounds_label": "Sound",
+                "sounds_description": "Choose the sound that will play when a text ui is displayed to better capture attention.",
+                "sounds_volume_label": "Sound Volume",
+                "sounds_volume_description": "Adjust the volume of text ui sounds to make them audible but not disruptive.",
+                "styles_label": "Style",
+                "styles_description": "Select one of the available style presets to customize the appearance of text ui according to your preferences.",
+                "size_label": "Size",
+                "size_description": "Adjust the size of text ui to better fit the display and ensure readability in all situations.",
+                "preview_btn": "Preview",
+                "save_btn": "Save",
+                "reset_btn": "Reset"
+            }
+        }
+    },
+    "DE": {
+        "customization": {
+            "title": "Anpassungsmenü",
+            "description": "",
+            "types": {
+                "notifications": "Benachrichtigung",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Position",
+                "position_description": "Wählen Sie, ob die Benachrichtigung von der linken oder rechten Seite des Bildschirms eingeschoben werden soll.",
+                "positions": {
+                    "left": "Links",
+                    "right": "Rechts"
+                },
+                "margin_label": "Rand",
+                "margin_description": "Passen Sie die Höhe der Benachrichtigungsanzeige auf dem Bildschirm an.",
+                "sounds_label": "Ton",
+                "sounds_description": "Wählen Sie den Ton aus, der abgespielt wird, wenn eine Benachrichtigung angezeigt wird, um die Aufmerksamkeit besser zu erfassen.",
+                "sounds_volume_label": "Lautstärke",
+                "sounds_volume_description": "Passen Sie die Lautstärke der Benachrichtigungstöne an, um sie hörbar, aber nicht störend zu machen.",
+                "styles_label": "Stil",
+                "styles_description": "Wählen Sie einen der verfügbaren Stilvorgaben aus, um das Erscheinungsbild von Benachrichtigungen entsprechend Ihren Vorlieben anzupassen.",
+                "size_label": "Größe",
+                "size_description": "Passen Sie die Größe der Benachrichtigungen an, um sie besser auf dem Bildschirm zu platzieren und in allen Situationen lesbar zu machen.",
+                "preview_btn": "Vorschau",
+                "save_btn": "Speichern",
+                "reset_btn": "Zurücksetzen"
+            },
+            "textui_settings": {
+                "position_label": "Position",
+                "position_description": "Wählen Sie, ob die Text-UI von der Seite des Bildschirms eingeschoben wird.",
+                "positions": {
+                    "left": "Links",
+                    "right": "Rechts",
+                    "top": "Oben",
+                    "bottom": "Unten"
+                },
+                "margin_horizontal_label": "Horizontaler Rand",
+                "margin_horizontal_description": "Passen Sie den horizontalen Rand der Text-UI-Anzeige auf dem Bildschirm an.",
+                "margin_vertical_label": "Vertikaler Rand",
+                "margin_vertical_description": "Passen Sie den vertikalen Rand der Text-UI-Anzeige auf dem Bildschirm an.",
+                "sounds_label": "Ton",
+                "sounds_description": "Wählen Sie den Ton aus, der abgespielt wird, wenn eine Text-UI angezeigt wird, um die Aufmerksamkeit besser zu erfassen.",
+                "sounds_volume_label": "Lautstärke",
+                "sounds_volume_description": "Passen Sie die Lautstärke der Text-UI-Töne an, um sie hörbar, aber nicht störend zu machen.",
+                "styles_label": "Stil",
+                "styles_description": "Wählen Sie einen der verfügbaren Stilvorgaben aus, um das Erscheinungsbild der Text-UI entsprechend Ihren Vorlieben anzupassen.",
+                "size_label": "Größe",
+                "size_description": "Passen Sie die Größe der Text-UI an, um sie besser auf dem Bildschirm zu platzieren und in allen Situationen lesbar zu machen.",
+                "preview_btn": "Vorschau",
+                "save_btn": "Speichern",
+                "reset_btn": "Zurücksetzen"
+            }
+        }
+    },
+    "FR": {
+        "customization": {
+            "title": "Menu de Personnalisation",
+            "description": "",
+            "types": {
+                "notifications": "Notification",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Position",
+                "position_description": "Choisissez si la notification glissera de la gauche ou de la droite de l'écran.",
+                "positions": {
+                    "left": "Gauche",
+                    "right": "Droite"
+                },
+                "margin_label": "Marge",
+                "margin_description": "Ajustez la hauteur de l'affichage de la notification à l'écran.",
+                "sounds_label": "Son",
+                "sounds_description": "Choisissez le son qui se jouera lorsque qu'une notification s'affiche pour attirer l'attention.",
+                "sounds_volume_label": "Volume du Son",
+                "sounds_volume_description": "Ajustez le volume des sons de notification pour les rendre audibles mais non perturbants.",
+                "styles_label": "Style",
+                "styles_description": "Sélectionnez l'un des styles prédéfinis pour personnaliser l'apparence des notifications selon vos préférences.",
+                "size_label": "Taille",
+                "size_description": "Ajustez la taille des notifications pour qu'elles s'affichent correctement et soient lisibles dans toutes les situations.",
+                "preview_btn": "Aperçu",
+                "save_btn": "Enregistrer",
+                "reset_btn": "Réinitialiser"
+            },
+            "textui_settings": {
+                "position_label": "Position",
+                "position_description": "Choisissez si le text ui glissera sur le côté de l'écran.",
+                "positions": {
+                    "left": "Gauche",
+                    "right": "Droite",
+                    "top": "Haut",
+                    "bottom": "Bas"
+                },
+                "margin_horizontal_label": "Marge Horizontale",
+                "margin_horizontal_description": "Ajustez la marge horizontale de l'affichage du text ui à l'écran.",
+                "margin_vertical_label": "Marge Verticale",
+                "margin_vertical_description": "Ajustez la marge verticale de l'affichage du text ui à l'écran.",
+                "sounds_label": "Son",
+                "sounds_description": "Choisissez le son qui se jouera lorsque qu'un text ui s'affiche pour attirer l'attention.",
+                "sounds_volume_label": "Volume du Son",
+                "sounds_volume_description": "Ajustez le volume des sons de text ui pour les rendre audibles mais non perturbants.",
+                "styles_label": "Style",
+                "styles_description": "Sélectionnez l'un des styles prédéfinis pour personnaliser l'apparence du text ui selon vos préférences.",
+                "size_label": "Taille",
+                "size_description": "Ajustez la taille du text ui pour qu'il s'affiche correctement et soit lisible dans toutes les situations.",
+                "preview_btn": "Aperçu",
+                "save_btn": "Enregistrer",
+                "reset_btn": "Réinitialiser"
+            }
+        }
+    },
+    "ES": {
+        "customization": {
+            "title": "Menú de personalización",
+            "description": "",
+            "types": {
+                "notifications": "Notificación",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Posición",
+                "position_description": "Elige si la notificación se deslizará desde el lado izquierdo o derecho de la pantalla.",
+                "positions": {
+                    "left": "Izquierda",
+                    "right": "Derecha"
+                },
+                "margin_label": "Margen",
+                "margin_description": "Ajusta la altura de la visualización de la notificación en la pantalla.",
+                "sounds_label": "Sonido",
+                "sounds_description": "Elige el sonido que se reproducirá cuando se muestre una notificación para captar mejor la atención.",
+                "sounds_volume_label": "Volumen del sonido",
+                "sounds_volume_description": "Ajusta el volumen de los sonidos de notificación para que sean audibles pero no disruptivos.",
+                "styles_label": "Estilo",
+                "styles_description": "Selecciona uno de los estilos preestablecidos disponibles para personalizar la apariencia de las notificaciones según tus preferencias.",
+                "size_label": "Tamaño",
+                "size_description": "Ajusta el tamaño de las notificaciones para que se ajusten mejor a la pantalla y garantizar la legibilidad en todas las situaciones.",
+                "preview_btn": "Vista previa",
+                "save_btn": "Guardar",
+                "reset_btn": "Restablecer"
+            },
+            "textui_settings": {
+                "position_label": "Posición",
+                "position_description": "Elige si el text ui se deslizará por el lado de la pantalla.",
+                "positions": {
+                    "left": "Izquierda",
+                    "right": "Derecha",
+                    "top": "Arriba",
+                    "bottom": "Abajo"
+                },
+                "margin_horizontal_label": "Margen Horizontal",
+                "margin_horizontal_description": "Ajusta el margen horizontal de la visualización del text ui en la pantalla.",
+                "margin_vertical_label": "Margen Vertical",
+                "margin_vertical_description": "Ajusta el margen vertical de la visualización del textui en la pantalla.",
+                "sounds_label": "Sonido",
+                "sounds_description": "Elige el sonido que se reproducirá cuando se muestre un text ui para captar mejor la atención.",
+                "sounds_volume_label": "Volumen del sonido",
+                "sounds_volume_description": "Ajusta el volumen de los sonidos de text ui para que sean audibles pero no disruptivos.",
+                "styles_label": "Estilo",
+                "styles_description": "Selecciona uno de los estilos preestablecidos disponibles para personalizar la apariencia del text ui según tus preferencias.",
+                "size_label": "Tamaño",
+                "size_description": "Ajusta el tamaño del text ui para que se ajuste mejor a la pantalla y garantizar la legibilidad en todas las situaciones.",
+                "preview_btn": "Vista previa",
+                "save_btn": "Guardar",
+                "reset_btn": "Restablecer"
+            }
+        }
+    },
+    "PT": {
+        "customization": {
+            "title": "Menu de Personalização",
+            "description": "",
+            "types": {
+                "notifications": "Notificação",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Posição",
+                "position_description": "Escolha se a notificação será exibida deslizando da esquerda ou da direita na tela.",
+                "positions": {
+                    "left": "Esquerda",
+                    "right": "Direita"
+                },
+                "margin_label": "Margem",
+                "margin_description": "Ajuste a altura da exibição da notificação na tela.",
+                "sounds_label": "Som",
+                "sounds_description": "Escolha o som que será reproduzido quando uma notificação for exibida para chamar a atenção.",
+                "sounds_volume_label": "Volume do Som",
+                "sounds_volume_description": "Ajuste o volume dos sons de notificação para torná-los audíveis sem serem disruptivos.",
+                "styles_label": "Estilo",
+                "styles_description": "Selecione um dos estilos predefinidos disponíveis para personalizar a aparência das notificações de acordo com suas preferências.",
+                "size_label": "Tamanho",
+                "size_description": "Ajuste o tamanho das notificações para se adaptarem melhor à tela e garantir a legibilidade em todas as situações.",
+                "preview_btn": "Visualizar",
+                "save_btn": "Salvar",
+                "reset_btn": "Redefinir"
+            },
+            "textui_settings": {
+                "position_label": "Posição",
+                "position_description": "Escolha se o textui deslizará na lateral da tela.",
+                "positions": {
+                    "left": "Esquerda",
+                    "right": "Direita",
+                    "top": "Topo",
+                    "bottom": "Fundo"
+                },
+                "margin_horizontal_label": "Margem Horizontal",
+                "margin_horizontal_description": "Ajuste a margem horizontal da exibição do textui na tela.",
+                "margin_vertical_label": "Margem Vertical",
+                "margin_vertical_description": "Ajuste a margem vertical do textui na tela.",
+                "sounds_label": "Som",
+                "sounds_description": "Escolha o som que será reproduzido ao exibir um textui para chamar a atenção.",
+                "sounds_volume_label": "Volume do Som",
+                "sounds_volume_description": "Ajuste o volume dos sons do textui para torná-los audíveis sem serem disruptivos.",
+                "styles_label": "Estilo",
+                "styles_description": "Selecione um dos estilos predefinidos disponíveis para personalizar a aparência do textui de acordo com suas preferências.",
+                "size_label": "Tamanho",
+                "size_description": "Ajuste o tamanho do textui para se adaptar melhor à tela e garantir a legibilidade em todas as situações.",
+                "preview_btn": "Visualizar",
+                "save_btn": "Salvar",
+                "reset_btn": "Redefinir"
+            }
+        }
+    },
+    "PL": {
+        "customization": {
+            "title": "Menu dostosowywania",
+            "description": "",
+            "types": {
+                "notifications": "Powiadomienie",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Pozycja",
+                "position_description": "Wybierz, czy powiadomienie będzie przesuwać się z lewej lub prawej strony ekranu.",
+                "positions": {
+                    "left": "Lewa",
+                    "right": "Prawa"
+                },
+                "margin_label": "Margines",
+                "margin_description": "Dostosuj wysokość wyświetlania powiadomienia na ekranie.",
+                "sounds_label": "Dźwięk",
+                "sounds_description": "Wybierz dźwięk, który będzie odtwarzany podczas wyświetlania powiadomienia, aby lepiej zwrócić uwagę.",
+                "sounds_volume_label": "Głośność dźwięku",
+                "sounds_volume_description": "Dostosuj głośność dźwięków powiadomień, aby były słyszalne, ale nie uciążliwe.",
+                "styles_label": "Styl",
+                "styles_description": "Wybierz jeden z dostępnych stylów predefiniowanych, aby dostosować wygląd powiadomień do swoich preferencji.",
+                "size_label": "Rozmiar",
+                "size_description": "Dostosuj rozmiar powiadomień, aby lepiej pasowały do ekranu i zapewnić czytelność we wszystkich sytuacjach.",
+                "preview_btn": "Podgląd",
+                "save_btn": "Zapisz",
+                "reset_btn": "Resetuj"
+            },
+            "textui_settings": {
+                "position_label": "Pozycja",
+                "position_description": "Wybierz, czy text ui będzie przesuwać się na bok ekranu.",
+                "positions": {
+                    "left": "Lewa",
+                    "right": "Prawa",
+                    "top": "Góra",
+                    "bottom": "Dół"
+                },
+                "margin_horizontal_label": "Margines poziomy",
+                "margin_horizontal_description": "Dostosuj poziomy margines wyświetlania text ui na ekranie.",
+                "margin_vertical_label": "Margines pionowy",
+                "margin_vertical_description": "Dostosuj pionowy margines wyświetlania text ui na ekranie.",
+                "sounds_label": "Dźwięk",
+                "sounds_description": "Wybierz dźwięk, który będzie odtwarzany podczas wyświetlania text ui, aby lepiej zwrócić uwagę.",
+                "sounds_volume_label": "Głośność dźwięku",
+                "sounds_volume_description": "Dostosuj głośność dźwięków text ui, aby były słyszalne, ale nie uciążliwe.",
+                "styles_label": "Styl",
+                "styles_description": "Wybierz jeden z dostępnych stylów predefiniowanych, aby dostosować wygląd text ui do swoich preferencji.",
+                "size_label": "Rozmiar",
+                "size_description": "Dostosuj rozmiar text ui, aby lepiej pasował do ekranu i zapewnić czytelność we wszystkich sytuacjach.",
+                "preview_btn": "Podgląd",
+                "save_btn": "Zapisz",
+                "reset_btn": "Resetuj"
+            }
+        }
+    },
+    "IT": {
+        "customization": {
+            "title": "Menu di Personalizzazione",
+            "description": "",
+            "types": {
+                "notifications": "Notifica",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Posizione",
+                "position_description": "Scegli se la notifica scivolerà dal lato sinistro o destro dello schermo.",
+                "positions": {
+                    "left": "Sinistra",
+                    "right": "Destra"
+                },
+                "margin_label": "Margine",
+                "margin_description": "Regola l'altezza della visualizzazione della notifica sullo schermo.",
+                "sounds_label": "Suono",
+                "sounds_description": "Scegli il suono che verrà riprodotto quando viene visualizzata una notifica per catturare meglio l'attenzione.",
+                "sounds_volume_label": "Volume del Suono",
+                "sounds_volume_description": "Regola il volume dei suoni delle notifiche per renderli udibili ma non disturbanti.",
+                "styles_label": "Stile",
+                "styles_description": "Seleziona uno degli stili predefiniti disponibili per personalizzare l'aspetto delle notifiche secondo le tue preferenze.",
+                "size_label": "Dimensione",
+                "size_description": "Regola le dimensioni delle notifiche per adattarle meglio al display e garantire la leggibilità in tutte le situazioni.",
+                "preview_btn": "Anteprima",
+                "save_btn": "Salva",
+                "reset_btn": "Reset"
+            },
+            "textui_settings": {
+                "position_label": "Posizione",
+                "position_description": "Scegli se il text ui scivolerà sul lato dello schermo.",
+                "positions": {
+                    "left": "Sinistra",
+                    "right": "Destra",
+                    "top": "In Alto",
+                    "bottom": "In Basso"
+                },
+                "margin_horizontal_label": "Margine Orizzontale",
+                "margin_horizontal_description": "Regola il margine orizzontale della visualizzazione del text ui sullo schermo.",
+                "margin_vertical_label": "Margine Verticale",
+                "margin_vertical_description": "Regola il margine verticale della visualizzazione del textui sullo schermo.",
+                "sounds_label": "Suono",
+                "sounds_description": "Scegli il suono che verrà riprodotto quando viene visualizzato un text ui per catturare meglio l'attenzione.",
+                "sounds_volume_label": "Volume del Suono",
+                "sounds_volume_description": "Regola il volume dei suoni del text ui per renderli udibili ma non disturbanti.",
+                "styles_label": "Stile",
+                "styles_description": "Seleziona uno degli stili predefiniti disponibili per personalizzare l'aspetto del text ui secondo le tue preferenze.",
+                "size_label": "Dimensione",
+                "size_description": "Regola le dimensioni del text ui per adattarlo meglio al display e garantire la leggibilità in tutte le situazioni.",
+                "preview_btn": "Anteprima",
+                "save_btn": "Salva",
+                "reset_btn": "Reset"
+            }
+        }
+    },
+    "CZ": {
+        "customization": {
+            "title": "Menu upravení",
+            "description": "",
+            "types": {
+                "notifications": "Oznámení",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Pozice",
+                "position_description": "Vyberte, zda se oznámení objeví ze levé nebo pravé strany obrazovky.",
+                "positions": {
+                    "left": "Vlevo",
+                    "right": "Vpravo"
+                },
+                "margin_label": "Okraj",
+                "margin_description": "Nastavte výšku zobrazení oznámení na obrazovce.",
+                "sounds_label": "Zvuk",
+                "sounds_description": "Vyberte zvuk, který se přehraje při zobrazení oznámení, aby lépe přitahoval pozornost.",
+                "sounds_volume_label": "Hlasitost zvuku",
+                "sounds_volume_description": "Upravte hlasitost zvuku oznámení tak, aby byly slyšet, ale ne rušivé.",
+                "styles_label": "Styl",
+                "styles_description": "Vyberte jeden ze stylů, abyste mohli upravit vzhled oznámení podle svých preferencí.",
+                "size_label": "Velikost",
+                "size_description": "Upravte velikost oznámení, aby lépe pasovaly na obrazovku a zajistili čitelnost ve všech situacích.",
+                "preview_btn": "Náhled",
+                "save_btn": "Uložit",
+                "reset_btn": "Resetovat"
+            },
+            "textui_settings": {
+                "position_label": "Pozice",
+                "position_description": "Vyberte, zda se textové ui objeví na straně obrazovky.",
+                "positions": {
+                    "left": "Vlevo",
+                    "right": "Vpravo",
+                    "top": "Nahoru",
+                    "bottom": "Dolů"
+                },
+                "margin_horizontal_label": "Horizontální okraj",
+                "margin_horizontal_description": "Nastavte horizontální okraj zobrazení textového ui na obrazovce.",
+                "margin_vertical_label": "Vertikální okraj",
+                "margin_vertical_description": "Nastavte vertikální okraj zobrazení textového ui na obrazovce.",
+                "sounds_label": "Zvuk",
+                "sounds_description": "Vyberte zvuk, který se přehraje při zobrazení textového ui, aby lépe přitahoval pozornost.",
+                "sounds_volume_label": "Hlasitost zvuku",
+                "sounds_volume_description": "Upravte hlasitost zvuku textového ui tak, aby byly slyšet, ale ne rušivé.",
+                "styles_label": "Styl",
+                "styles_description": "Vyberte jeden ze stylů, abyste mohli upravit vzhled textového ui podle svých preferencí.",
+                "size_label": "Velikost",
+                "size_description": "Upravte velikost textového ui, aby lépe pasovaly na obrazovku a zajistili čitelnost ve všech situacích.",
+                "preview_btn": "Náhled",
+                "save_btn": "Uložit",
+                "reset_btn": "Resetovat"
+            }
+        }
+    },
+    "SV": {
+        "customization": {
+            "title": "Anpassningsmeny",
+            "description": "",
+            "types": {
+                "notifications": "Meddelande",
+                "textui": "TextUI"
+            },
+            "notifications_settings": {
+                "position_label": "Position",
+                "position_description": "Välj om meddelandet ska glida in från vänster eller höger sida av skärmen.",
+                "positions": {
+                    "left": "Vänster",
+                    "right": "Höger"
+                },
+                "margin_label": "Marginal",
+                "margin_description": "Justera höjden på meddelandet på skärmen.",
+                "sounds_label": "Ljud",
+                "sounds_description": "Välj ljudet som ska spelas när ett meddelande visas för att bättre fånga uppmärksamheten.",
+                "sounds_volume_label": "Ljudvolym",
+                "sounds_volume_description": "Justera volymen på ljudet för meddelanden för att göra dem hörbara men inte störande.",
+                "styles_label": "Stil",
+                "styles_description": "Välj en av de tillgängliga stilförinställningarna för att anpassa utseendet på meddelanden enligt dina preferenser.",
+                "size_label": "Storlek",
+                "size_description": "Justera storleken på meddelanden för att bättre passa skärmen och säkerställa läsbarhet i alla situationer.",
+                "preview_btn": "Förhandsvisning",
+                "save_btn": "Spara",
+                "reset_btn": "Återställ"
+            },
+            "textui_settings": {
+                "position_label": "Position",
+                "position_description": "Välj om textui ska glida in från sidan av skärmen.",
+                "positions": {
+                    "left": "Vänster",
+                    "right": "Höger",
+                    "top": "Toppen",
+                    "bottom": "Botten"
+                },
+                "margin_horizontal_label": "Horisontell marginal",
+                "margin_horizontal_description": "Justera den horisontella marginalen för textui på skärmen.",
+                "margin_vertical_label": "Vertikal marginal",
+                "margin_vertical_description": "Justera den vertikala marginalen för textui på skärmen.",
+                "sounds_label": "Ljud",
+                "sounds_description": "Välj ljudet som ska spelas när en textui visas för att bättre fånga uppmärksamheten.",
+                "sounds_volume_label": "Ljudvolym",
+                "sounds_volume_description": "Justera volymen på ljudet för textui för att göra dem hörbara men inte störande.",
+                "styles_label": "Stil",
+                "styles_description": "Välj en av de tillgängliga stilförinställningarna för att anpassa utseendet på textui enligt dina preferenser.",
+                "size_label": "Storlek",
+                "size_description": "Justera storleken på textui för att bättre passa skärmen och säkerställa läsbarhet i alla situationer.",
+                "preview_btn": "Förhandsvisning",
+                "save_btn": "Spara",
+                "reset_btn": "Återställ"
+            }
+        }
+    }
+}
